@@ -1,0 +1,12 @@
+{
+  "name": "exomorpion",
+  "version": "1.0.0",
+  "description": "exercice du morpion lors de la presentation de node",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo",
+  "license": "ISC"
+}
