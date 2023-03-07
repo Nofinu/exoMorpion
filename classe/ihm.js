@@ -60,7 +60,7 @@ export class Ihm{
       }
     }
     testDiago(){
-      if((this.gametable[0][0] === this.gametable[1][1]) && (his.gametable[0][0]=== this.gametable[2][2]) && this.gametable[0][0] !==" "){
+      if((this.gametable[0][0] === this.gametable[1][1]) && (this.gametable[0][0]=== this.gametable[2][2]) && this.gametable[0][0] !==" "){
         console.log("testdiago")
         this.victory=true
       }
